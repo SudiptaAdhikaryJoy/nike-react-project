@@ -5,3 +5,16 @@
 .nike-text-color{
     color: #FA804C;
 }
+.nike-card-bg-color{
+    background: white;
+}
+
+.nike-img-bg-color{
+    background: rgb(180, 178, 178);
+
+}
+/* card body text color */
+.card-header-text-color{
+    color: #FA804C;
+    
+}
